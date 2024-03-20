@@ -1,0 +1,14 @@
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\obj\Debug\net8.0\RockPaperScissorsCnsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\obj\Debug\net8.0\RockPaperScissorsCnsole.AssemblyInfoInputs.cache
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\obj\Debug\net8.0\RockPaperScissorsCnsole.AssemblyInfo.cs
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\obj\Debug\net8.0\RockPaperScissorsCnsole.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\bin\Debug\net8.0\RockPaperScissorsCnsole.exe
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\bin\Debug\net8.0\RockPaperScissorsCnsole.deps.json
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\bin\Debug\net8.0\RockPaperScissorsCnsole.runtimeconfig.json
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\bin\Debug\net8.0\RockPaperScissorsCnsole.dll
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\bin\Debug\net8.0\RockPaperScissorsCnsole.pdb
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\obj\Debug\net8.0\RockPaperScissorsCnsole.dll
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\obj\Debug\net8.0\refint\RockPaperScissorsCnsole.dll
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\obj\Debug\net8.0\RockPaperScissorsCnsole.pdb
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\obj\Debug\net8.0\RockPaperScissorsCnsole.genruntimeconfig.cache
+C:\Users\joelm\Source\Repos\RockPaperScissorsCnsole\RockPaperScissorsCnsole\obj\Debug\net8.0\ref\RockPaperScissorsCnsole.dll
